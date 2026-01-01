@@ -14,6 +14,11 @@ A simple yet powerful Excel based **habit and productivity tracker** to help you
 
 Here are examples of what the tracker looks like in action:
 
+<h2> RAW OVERVIEW: </h2>
+<p align="center">
+  <img src="assets/Screenshot 2026-01-01 220441.png" width="1000">
+</p>
+
 
 ## How to Use
 1. Download the repository.
